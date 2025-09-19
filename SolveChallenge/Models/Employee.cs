@@ -13,5 +13,6 @@ namespace SolveChallenge.Models
         public double Salary { get; set; }
         public int DepartmentId { get; set; }
         public string Image { get; set; }
+        public int Age  { get; set; }
     }
 }
